@@ -12,11 +12,12 @@ With a background in operations, research, and project coordination, I bring a s
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI Application Development** | Bubble, OpenAI API |
-| **Workflow Automation** | n8n, REST APIs |
+| **Application Development & AI Integration** | Bubble, WeWeb, Supabase, LLM APIs |
+| **Workflow Automation & API Integration** | n8n, REST API Integration, Webhooks |
 | **Prompt Engineering & LLM Evaluation** | System Instruction Design, Prompt Refinement, Response Evaluation |
 | **Data Annotation** | LabelMe, CVAT, Label Studio, Custom Annotation Interfaces |
-| **Document Processing** | LlamaParse, Python, Notepad++ |
+| **Document Processing** | LlamaParse, Python, Regex |
+| **Hosting & DNS Management** | Cloudflare Pages, Cloudflare DNS |
 | **Version Control & Documentation** | Git, GitHub |
 
 ---
